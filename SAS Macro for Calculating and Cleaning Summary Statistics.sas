@@ -1,3 +1,11 @@
+/*************************************Program Name: SAS Macro for Calculating and Cleaning Summary Statistics.sas*****************************************************************************************************************
+Project Name: Any
+Purpose: A macro that can be used to calculate summary statistics for selecting the valid values and calculating summary statistics for numeric data, and cleaning the output
+Programmer: Andy Dey
+Location: filepath
+Notes: The word Lab can be replaced with whatever variable type of interest
+*******************************************************************************************************************************************************************/
+
 
 /********************MACRO For Getting SumStats and Cleaning************************************/
 %Macro LabStats (labname);
